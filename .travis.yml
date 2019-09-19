@@ -11,3 +11,5 @@ branches:
 notifications:
   email:
     - isaacloft0906@gmail.com
+    
+dist: trusty
